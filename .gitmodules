@@ -4,3 +4,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/AllinOne"]
+	path = themes/AllinOne
+	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "theme/indigo"]
+	path = theme/indigo
+	url = https://github.com/AngeloStavrow/indigo.git
+[submodule "themes/indigo"]
+	path = themes/indigo
+	url = https://github.com/AngeloStavrow/indigo.git
