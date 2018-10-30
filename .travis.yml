@@ -16,3 +16,4 @@ deploy:
     target_branch: master
     email: mr-ooops@gmx.com
     name: mr-ooops
+    fqdn: https://www.chained.com.cn
